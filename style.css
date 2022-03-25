@@ -1,3 +1,15 @@
-p {
-    background-color: red;
+li {
+    color:blueviolet
+}
+* {
+    color:brown
+}
+#otsikko {
+    color:blue
+}
+#jatkuu {
+    color:red
+}
+a {
+    color:darkblue
 }
